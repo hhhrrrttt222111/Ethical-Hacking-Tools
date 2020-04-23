@@ -3,8 +3,11 @@
 
 
 ## Information Gathering
-* [whois](https://www.tecmint.com/whois-command-get-domain-and-ip-address-information/) H
-* [nbtscan](https://www.google.com/)
+* [whois](https://www.tecmint.com/whois-command-get-domain-and-ip-address-information/) 
+``` Usage
+whois google.com
+```
+* [nbtscan](https://www.darknet.org.uk/2017/09/nbtscan-download-netbios-scanner-for-windows-linux/)
 * [fping](https://www.google.com/)
 * [tcptraceroute](https://www.google.com/)
 * [traceroute](https://www.google.com/)
