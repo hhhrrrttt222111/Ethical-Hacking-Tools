@@ -76,19 +76,38 @@ enum4linux -u 192.168.2.55
 hping3 -S 192.168.1.10 -p 80
 hping3 –traceroute -S {target ip}
 ```
-* [dotdotpwn](https://www.google.com/)
+* [dotdotpwn](https://tools.kali.org/information-gathering/dotdotpwn)
+``` 
+dotdotpwn.pl -m http -h 192.168.1.1 -M GET
+```
+* [golismero](https://tools.kali.org/information-gathering/golismero)
+``` 
+golismero scan http://www.0x00sec.org 
+golismero scan http://www.0x00sec.org -o /root/scan.txt 
+```
+* [netmask](https://chousensha.github.io/blog/2017/07/07/netmask-kali-linux-tools/)
+``` 
+netmask -c google.com
+netmask -r 192.168.217.0/24
+```
+* [knock](https://kalilinuxtutorials.com/knock-enumerate-subdomains/)
+``` 
+knockpy domain.com
+knockpy domain.com -w wordlist.txt
+```
+* [wow](https://www.google.com/)
 ``` 
 
 ```
-* [golismero](https://www.google.com/)
+* [wow](https://www.google.com/)
 ``` 
 
 ```
-* [netmask](https://www.google.com/)
+* [wow](https://www.google.com/)
 ``` 
 
 ```
-* [knock](https://www.google.com/)
+* [wow](https://www.google.com/)
 ``` 
 
 ```
