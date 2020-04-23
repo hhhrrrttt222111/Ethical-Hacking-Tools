@@ -19,57 +19,62 @@ fping 50.116.66.139 173.194.35.35 98.139.183.24
 fping -s -g 192.168.0.1 192.168.0.9
 fping -g -r 1 192.168.0.0/24
 ```
-* [tcptraceroute](https://www.google.com/)
+* [tcptraceroute](https://linux.die.net/man/1/tcptraceroute)
 ``` 
-
+tcptraceroute api.opendns.com 443
+tcptraceroute -T domainname
 ```
-* [traceroute](https://www.google.com/)
+* [traceroute](https://linux.die.net/man/8/traceroute)
 ``` 
-
+traceroute example.com
 ```
-* [xprobe2](https://www.google.com/)
+* [xprobe2](https://linux.die.net/man/1/xprobe2)
 ``` 
-
+xprobe2 google.com
+xprobe2 -D 11 google.com
 ```
-* [sslyze](https://www.google.com/)
+* [sslyze](https://tools.kali.org/information-gathering/sslyze)
 ``` 
-
+sslyze --regular bugcrowd.com
 ```
-* [tcpdump](https://www.google.com/)
+* [tcpdump](https://opensource.com/article/18/10/introduction-tcpdump)
 ``` 
-
+tcpdump host 1.1.1.1
+tcpdump -i eth0
 ```
-* [tshark](https://www.google.com/)
+* [tshark](https://www.wireshark.org/docs/man-pages/tshark.html)
 ``` 
-
+tshark -i wlan0 -w capture-output.pcap
+tshark -r capture-output.pcap
 ```
-* [wireshark](https://www.google.com/)
+* [wireshark](https://www.wireshark.org/)
+* [subbrute](https://github.com/TheRook/subbrute)
 ``` 
-
+./subbrute.py target.com
 ```
-* [subbrute](https://www.google.com/)
+* [dnsenum](https://tools.kali.org/information-gathering/dnsenum)
 ``` 
-
+dnsenum --enum hackthissite.org
+dnsenum hackthissite.org
 ```
-* [dnsenum](https://www.google.com/)
+* [dnsrecon](https://tools.kali.org/information-gathering/dnsrecon)
 ``` 
-
+./dnsrecon.py -d <domain>
+./dnsrecon.py -d <domain> -t axfr
 ```
-* [dnsrecon](https://www.google.com/)
+* [dnstracer](https://tools.kali.org/information-gathering/dnstracer)
 ``` 
-
+dnstracer www.mavetju.org
 ```
-* [dnstracer](https://www.google.com/)
+* [enum4linux](https://tools.kali.org/information-gathering/enum4linux)
 ``` 
-
+enum4linux -v 172.168.0.6
+enum4linux -u 192.168.2.55
 ```
-* [enum4linux](https://www.google.com/)
+* [hping3](https://tools.kali.org/information-gathering/hping3)
 ``` 
-
-```
-* [hping3](https://www.google.com/)
-``` 
-
+hping3 -S 192.168.1.10 -p 80
+hping3 –traceroute -S {target ip}
 ```
 * [dotdotpwn](https://www.google.com/)
 ``` 
