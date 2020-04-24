@@ -91,6 +91,46 @@ netmask -r 192.168.217.0/24
 knockpy domain.com
 knockpy domain.com -w wordlist.txt
 ```
+* [lbd](https://tools.kali.org/information-gathering/lbd)
+``` 
+
+```
+* [wow](https://www.google.com/)
+``` 
+
+```
+* [wow](https://www.google.com/)
+``` 
+
+```
+* [wow](https://www.google.com/)
+``` 
+
+```
+* [wow](https://www.google.com/)
+``` 
+
+```
+* [wow](https://www.google.com/)
+``` 
+
+```
+* [wow](https://www.google.com/)
+``` 
+
+```
+* [wow](https://www.google.com/)
+``` 
+
+```
+* [wow](https://www.google.com/)
+``` 
+
+```
+* [wow](https://www.google.com/)
+``` 
+
+```
 * [wow](https://www.google.com/)
 ``` 
 
