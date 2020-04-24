@@ -4,7 +4,7 @@
 whois google.com
 whois 216.58.206.46
 ```
-* [nbtscan](https://www.darknet.org.uk/2017/09/nbtscan-download-netbios-scanner-for-windows-linux/)&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://www.youtube.com/watch?v=mOrWk-80ObA)&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=mOrWk-80ObA)
+* [nbtscan](https://www.darknet.org.uk/2017/09/nbtscan-download-netbios-scanner-for-windows-linux/)&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://github.com/scallywag/nbtscan)&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=ePwBHxjOdJ4)
 ``` 
 nbtstat -A 192.168.1.99
 nbtscan -f addresses.txt
