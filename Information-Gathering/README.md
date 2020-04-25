@@ -151,35 +151,82 @@ urlcrazy -k dvorak -r example.com
 ``` 
 dnmap_client -s <server-ip> -a <alias></alias></server-ip>
 ```
-* [wow](https://www.google.com/)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](YT)
+* [dnswalk](https://tools.kali.org/information-gathering/dnswalk)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://github.com/davebarr/dnswalk)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=LLCcb0IgAtk)
+``` 
+dnswalk -r -d example.com.
+dnswalk example.com.
+```
+* [fierce](https://tools.kali.org/information-gathering/fierce)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://gitlab.com/kalilinux/packages/fierce)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=5fCU1YsF2Cs)
+``` 
+fierce -dns example.com -threads 10
+```
+* [fragrouter](https://tools.kali.org/information-gathering/fragrouter)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://gitlab.com/kalilinux/packages/fragrouter)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=UYV5mwchQ2A)
+``` 
+fragrouter -i eth0 -F1
+```
+* [ftest](#)&nbsp;&nbsp;&nbsp;[![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=JwzV7JqwBX0)
+``` 
+./ftest -f ftest.conf
+```
+* [arping](https://kalilinuxtutorials.com/arping/)&nbsp;&nbsp;&nbsp;[![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=butXaR4Wwms)
+``` 
+arping  192.168.122.1
+arping -s aa:bb:cc:dd:ee:ff  192.168.122.1
+arping -c 2 192.168.122.1
+```
+* [cdpsnarf](https://tools.kali.org/information-gathering/cdpsnarf)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://gitlab.com/kalilinux/packages/cdpsnarf)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=kwgmtaZx-AY)
+``` 
+cdpsnarf -i eth0 -w cdpsnarf.pcap
+```
+* [unicornscan](https://tools.kali.org/information-gathering/unicornscan)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://gitlab.com/kalilinux/packages/unicornscan)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=X_DdYUeKS-o)
+``` 
+unicornscan -v -I -mT [IP ADDRESS]
+unicornscan -mTsf -Iv -r 1000 192.168.0.102:a
+
+```
+* [nmap](https://tools.kali.org/information-gathering/nmap)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://gitlab.com/kalilinux/packages/nmap)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=5MTZdN9TEO4)
+``` 
+nmap cloudflare.com
+nmap --top-ports 20 192.168.1.106
+nmap -oX output.xml securitytrails.com
+```
+* [theHarvester](https://tools.kali.org/information-gathering/theharvester)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://github.com/laramies/theHarvester)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=NioRu6s4_xk)
+``` 
+theHarvester -d sixthstartech.com -l 300 -b all
+theHarvester.py -d wonderhowto.com -b all -l 200
+```
+* [twofi](https://tools.kali.org/information-gathering/twofi)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://github.com/digininja/twofi)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=ASde4fZ3ByY)
+``` 
+twofi -h
+```
+* [maltego](https://www.maltego.com/?utm_source=paterva.com&utm_medium=referral&utm_campaign=301)&nbsp;&nbsp;&nbsp;[![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=zemNLx0-LRw)
+
+* [0trace](https://www.aldeid.com/wiki/0trace)&nbsp;&nbsp;&nbsp;[![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=U5xDRcny7ZA)
+``` 
+./0trace.sh wlan0 69.63.181.12
+```
+* [intrace](https://tools.kali.org/information-gathering/intrace)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://github.com/robertswiecki/intrace)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=4Cb8ZD28J2E)
+``` 
+intrace -h hostname.com -p port -s sizeofpacket
+intrace -h www.example.com -p 80 -s 4
+```
+* irpas-ass &nbsp;&nbsp;&nbsp;
 ``` 
 
 ```
-* [wow](https://www.google.com/)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](YT)
+* irpas-cdp &nbsp;&nbsp;&nbsp;[![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=j95zk3b2tpM)
 ``` 
 
 ```
-* [wow](https://www.google.com/)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](YT)
+* [netdiscover](https://www.google.com/)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](YT)
 ``` 
 
 ```
-* [wow](https://www.google.com/)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](YT)
+* [smbmap](https://www.google.com/)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](YT)
 ``` 
 
 ```
-* [wow](https://www.google.com/)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](YT)
-``` 
-
-```
-* [wow](https://www.google.com/)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](YT)
-``` 
-
-```
-* [wow](https://www.google.com/)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](YT)
-``` 
-
-```
-* [wow](https://www.google.com/)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](YT)
+* [snmp-check](https://www.google.com/)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](YT)
 ``` 
 
 ```
