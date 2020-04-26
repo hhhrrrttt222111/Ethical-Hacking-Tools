@@ -349,7 +349,7 @@ amap -bqv 192.168.1.15 80
 apt2 -h
 ```
 
-* [bing-ip2hosts](https://tools.kali.org/information-gathering/bing-ip2hosts)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](bing-ip2hosts -p 173.194.33.80)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](bing-ip2hosts -p 173.194.33.80)
+* [bing-ip2hosts](https://tools.kali.org/information-gathering/bing-ip2hosts)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://gitlab.com/kalilinux/packages/bing-ip2hosts)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=Y9NCos8H8ac)
 ``` 
 bing-ip2hosts -p microsoft.com
 bing-ip2hosts -p 173.194.33.80
