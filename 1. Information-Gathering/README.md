@@ -354,61 +354,60 @@ apt2 -h
 bing-ip2hosts -p microsoft.com
 bing-ip2hosts -p 173.194.33.80
 ```
-* [automater](google.com)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=dRAzBuijPhM)
+* [automater](https://tools.kali.org/information-gathering/automater)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://gitlab.com/kalilinux/packages/automater)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=dRAzBuijPhM)
 ``` 
-
+automater 185.62.190.110
+automater corefitness.info
+automater b9318a66fa7f50f2f3ecaca02a96268ad2c63db7554ea3acbde43bf517328d06
 ```
 
-* [cisco-torch](google.com)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](YT)
+* [cisco-torch](https://tools.kali.org/information-gathering/cisco-torch)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://github.com/foreni-packages/cisco-torch)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)]https://www.youtube.com/watch?v=4OztzE5iJ2U)
 ``` 
+cisco-torch -A 10.1.1.0/24
 
 ```
-* [enumIAX](google.com)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](YT)
+* [enumIAX](https://tools.kali.org/information-gathering/enumiax)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://gitlab.com/kalilinux/packages/enumiax)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=fNEKla8lxak)
 ``` 
-
+enumiax -d /usr/share/wordlists/metasploit/unix_users.txt 192.168.1.1
 ```
 
-* [EyeWitness](google.com)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](YT)
+* [EyeWitness](https://tools.kali.org/information-gathering/eyewitness)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://github.com/FortyNorthSecurity/EyeWitness)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=2zmBhHDKjpI)
 ``` 
-
+eyewitness -f /root/urls.txt -d screens --headless
 ```
-* [goofile](google.com)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](YT)
+* [goofile](https://tools.kali.org/information-gathering/goofile)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://gitlab.com/kalilinux/packages/goofile)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=UwUAEVxdJeE)
 ``` 
-
-```
-
-* [ident-user-enum](google.com)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](YT)
-``` 
-
-```
-* [inSpy](google.com)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](YT)
-``` 
-
+goofile -d kali.org -f pdf
 ```
 
-* [iSMPT](google.com)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](YT)
+* [ident-user-enum](https://tools.kali.org/information-gathering/ident-user-enum)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://gitlab.com/kalilinux/packages/ident-user-enum)&nbsp;&nbsp;&nbsp;
 ``` 
-
+ident-user-enum 192.168.1.13 22 139 445
 ```
-* [nbtsacn-unizwix](google.com)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](YT)
+* [inSpy](https://tools.kali.org/information-gathering/inspy)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://github.com/leapsecurity/InSpy)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=utC1NZJnZ9s)
 ``` 
-
-```
-
-* [Nikto](google.com)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](YT)
-``` 
-
-```
-* [ntop](google.com)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](YT)
-``` 
-
+inspy -h
 ```
 
-* [Parsero](google.com)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](YT)
+* [iSMTP](https://tools.kali.org/information-gathering/ismtp)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://gitlab.com/kalilinux/packages/ismtp)
 ``` 
-
+ismtp
 ```
-* [OSRFramework](google.com)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](YT)
+
+* [Nikto](https://tools.kali.org/information-gathering/nikto)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://gitlab.com/kalilinux/packages/nikto)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=K78YOmbuT48)
+``` 
+nikto -Help
+```
+* [ntop](https://tools.kali.org/information-gathering/ntop)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://github.com/ntop/ntopng)
+``` 
+ntop -B "src host 192.168.1.1"
+```
+
+* [Parsero](https://tools.kali.org/information-gathering/parsero)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://github.com/behindthefirewalls/Parsero)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=WX3iq77QxtQ)
+``` 
+parsero -u www.bing.com -sb
+```
+* [OSRFramework](google.com)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://github.com/i3visio/osrframework)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://github.com/i3visio/osrframework)
 ``` 
 
 ```
