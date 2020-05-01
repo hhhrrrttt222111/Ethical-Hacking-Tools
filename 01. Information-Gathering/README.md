@@ -1,5 +1,5 @@
 ## Information Gathering
-* [whois](https://www.tecmint.com/whois-command-get-domain-and-ip-address-information/)&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=mOrWk-80ObA)
+* [whois](https://www.tecmint.com/whois-command-get-domain-and-ip-address-information/)&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPZPTF4VDCZFD3CFVAK6WVY3S)](https://www.youtube.com/watch?v=mOrWk-80ObA)
 ``` 
 whois google.com
 whois 216.58.206.46
