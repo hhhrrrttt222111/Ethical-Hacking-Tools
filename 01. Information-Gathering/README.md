@@ -4,12 +4,12 @@
 whois google.com
 whois 216.58.206.46
 ```
-* [nbtscan](https://www.darknet.org.uk/2017/09/nbtscan-download-netbios-scanner-for-windows-linux/)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://github.com/scallywag/nbtscan)&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=ePwBHxjOdJ4)
+* [nbtscan](https://www.darknet.org.uk/2017/09/nbtscan-download-netbios-scanner-for-windows-linux/)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP4M2RTUFTJVE5QLRV26WYYCE)](https://github.com/scallywag/nbtscan)&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=ePwBHxjOdJ4)
 ``` 
 nbtstat -A 192.168.1.99
 nbtscan -f addresses.txt
 ```
-* [fping](https://fping.org/)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://github.com/schweikert/fping)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=knRDczIQo8Q)
+* [fping](https://fping.org/)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://github.com/schweikert/fping)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://www.youtube.com/watch?v=knRDczIQo8Q)
 ``` 
 fping 50.116.66.139 173.194.35.35 98.139.183.24
 fping -s -g 192.168.0.1 192.168.0.9
