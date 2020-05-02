@@ -1,11 +1,11 @@
 ## Reverse Engineering
 
 
-* [apktool](https://tools.kali.org/reverse-engineering/apktool)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://gitlab.com/kalilinux/packages/apktool)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=Ev4e8YguBz0)
+* [apktool](https://tools.kali.org/reverse-engineering/apktool)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](https://gitlab.com/kalilinux/packages/apktool)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://www.youtube.com/watch?v=Ev4e8YguBz0)
 ``` 
 apktool
 ```
-* [dex2jar](https://tools.kali.org/reverse-engineering/dex2jar)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://github.com/pxb1988/dex2jar)
+* [dex2jar](https://tools.kali.org/reverse-engineering/dex2jar)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](https://github.com/pxb1988/dex2jar)
 ``` 
 d2j-jar2dex -h
 d2j-jar-remap -h
@@ -18,29 +18,29 @@ d2j-asm-verify -h
 .
 .
 ```
-* [diStorm3](https://tools.kali.org/reverse-engineering/distorm3)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://tools.kali.org/reverse-engineering/edb-debugger)
+* [diStorm3](https://tools.kali.org/reverse-engineering/distorm3)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](https://tools.kali.org/reverse-engineering/edb-debugger)
  
-* [edb-debugger](https://tools.kali.org/reverse-engineering/edb-debugger)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://gitlab.com/kalilinux/packages/edb-debugger)
+* [edb-debugger](https://tools.kali.org/reverse-engineering/edb-debugger)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](https://gitlab.com/kalilinux/packages/edb-debugger)
  ```
  edb
  ```
-* [jad](https://tools.kali.org/reverse-engineering/jad)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://gitlab.com/kalilinux/packages/jad)
+* [jad](https://tools.kali.org/reverse-engineering/jad)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](https://gitlab.com/kalilinux/packages/jad)
  
-* [javasnoop](https://tools.kali.org/reverse-engineering/javasnoop)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://gitlab.com/kalilinux/packages/javasnoop)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=ipuSmbxBxKw)
+* [javasnoop](https://tools.kali.org/reverse-engineering/javasnoop)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](https://gitlab.com/kalilinux/packages/javasnoop)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://www.youtube.com/watch?v=ipuSmbxBxKw)
 ``` 
 javasnoop
 ```
-* [JD-GUI](https://tools.kali.org/reverse-engineering/jd-gui)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://gitlab.com/kalilinux/packages/jd-gui)
+* [JD-GUI](https://tools.kali.org/reverse-engineering/jd-gui)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](https://gitlab.com/kalilinux/packages/jd-gui)
 ``` 
 jd-gui
 ```
-* [OllyDbg](https://tools.kali.org/reverse-engineering/ollydbg)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://gitlab.com/kalilinux/packages/ollydbg)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=l6bWorxVXiw)
+* [OllyDbg](https://tools.kali.org/reverse-engineering/ollydbg)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](https://gitlab.com/kalilinux/packages/ollydbg)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://www.youtube.com/watch?v=l6bWorxVXiw)
  
-* [smali](https://tools.kali.org/reverse-engineering/smali)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://github.com/JesusFreke/smali)
+* [smali](https://tools.kali.org/reverse-engineering/smali)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](https://github.com/JesusFreke/smali)
 ``` 
 smali --help
 ```
-* [Valgrind](https://tools.kali.org/reverse-engineering/valgrind)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://gitlab.com/kalilinux/packages/valgrind)
+* [Valgrind](https://tools.kali.org/reverse-engineering/valgrind)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](https://gitlab.com/kalilinux/packages/valgrind)
 ``` 
 callgrind_annotate -h
 callgrind_control -h
@@ -54,14 +54,14 @@ cg_merge
 .
 .
 ```
-* [YARA](https://tools.kali.org/reverse-engineering/yara)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://github.com/virustotal/yara)
+* [YARA](https://tools.kali.org/reverse-engineering/yara)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](https://github.com/virustotal/yara)
 ``` 
 yara --help
 ```
-* [bytecode-viewer](https://en.kali.tools/all/?tool=181)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://github.com/Konloch/bytecode-viewer)
+* [bytecode-viewer](https://en.kali.tools/all/?tool=181)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](https://github.com/Konloch/bytecode-viewer)
 
 * [clang](https://installlion.com/kali/kali/main/c/clang/install/index.html)
 
-* [radare2](https://rada.re/n/)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP6I6CIJHEVIZR5WZH26VQW2S)](https://github.com/radareorg/radare2)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=8dXhrOEGHTY)
+* [radare2](https://rada.re/n/)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](https://github.com/radareorg/radare2)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://www.youtube.com/watch?v=8dXhrOEGHTY)
 
 
