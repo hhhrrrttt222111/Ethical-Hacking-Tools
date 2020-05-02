@@ -94,8 +94,7 @@ netmask -r 192.168.217.0/24
 knockpy domain.com
 knockpy domain.com -w wordlist.txt
 ```
-* [lbd](https://tools.kali.org/information-gathering/lbd)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](http://gitlab.com/kalilinux/packages/lbd)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6
-VQWHE)](https://www.youtube.com/watch?v=ESnSsQVigZs)
+* [lbd](https://tools.kali.org/information-gathering/lbd)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](http://gitlab.com/kalilinux/packages/lbd)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=ESnSsQVigZs)
 ``` 
 lbd example.com
 ```
