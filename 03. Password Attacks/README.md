@@ -84,8 +84,7 @@ ncrack -h
 ```
 * [oclgausscrack](https://tools.kali.org/password-attacks/oclgausscrack)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](https://gitlab.com/kalilinux/packages/oclgausscrack)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](YT)
 
-* [ophcrack](https://tools.kali.org/password-attacks/ophcrack)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55
-NNCO72C6VQWHE)](https://www.youtube.com/watch?v=I8fAIaB9hOQ)
+* [ophcrack](https://tools.kali.org/password-attacks/ophcrack)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](GIT)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDP6T4FQVCZ55NNCO72C6VQWHE)](https://www.youtube.com/watch?v=I8fAIaB9hOQ)
 ``` 
 ophcrack -h
 ```
