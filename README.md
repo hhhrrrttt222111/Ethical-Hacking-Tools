@@ -1,6 +1,10 @@
 # Ethical-Hacking-Tools
 <br>
 
+![GitHub forks](https://img.shields.io/github/forks/hhhrrrttt222111/Ethical-Hacking-Tools?color=green)
+![GitHub stars](https://img.shields.io/github/stars/hhhrrrttt222111/Ethical-Hacking-Tools?color=red)
+![GitHub watchers](https://img.shields.io/github/watchers/hhhrrrttt222111/Ethical-Hacking-Tools?color=yellow)
+
 ### Show some :green_heart: and :star: the Repo to SUPPORT 
 <br>
 
