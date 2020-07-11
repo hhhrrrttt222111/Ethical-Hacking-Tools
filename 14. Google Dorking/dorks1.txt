@@ -1,0 +1,791 @@
+components/com_simpleboard/image_upload.php?sbp=
+Computer Science.php?id=
+confidential site:mil
+config.php
+config.php?_CCFG[_PKG_PATH_DBSE]=
+ConnectionTest.java filetype:html
+constructies/product.php?id=
+contact.php?cartId=
+contacts ext:wml
+contenido.php?sec=
+content.php?arti_id=
+content.php?categoryId=
+content.php?cID=
+content.php?cid=
+content.php?cont_title=
+content.php?id
+content.php?id=
+content.php?ID=
+content.php?p=
+content.php?page=
+content.php?PID=
+content/conference_register.php?ID=
+content/detail.php?id=
+content/index.php?id=
+content/pages/index.php?id_cat=
+content/programme.php?ID=
+content/view.php?id=
+coppercop/theme.php?THEME_DIR=
+corporate/newsreleases_more.php?id=
+county-facts/diary/vcsgen.php?id=
+cps/rde/xchg/tm/hs.xsl/liens_detail.html?lnkId=
+cryolab/content.php?cid=
+csc/news-details.php?cat=
+customer/board.htm?mode=
+customer/home.php?cat=
+customerService.php?****ID1=
+CuteNews" "2003..2005 CutePHP"
+data filetype:mdb -site:gov -site:mil
+db.php?path_local=
+db/CART/product_details.php?product_id=
+de/content.php?page_id=
+deal_coupon.php?cat_id=
+debate-detail.php?id=
+declaration_more.php?decl_id=
+default.php?*root*=
+default.php?abre=
+default.php?base_dir=
+default.php?basepath=
+default.php?body=
+default.php?catID=
+default.php?channel=
+default.php?chapter=
+default.php?choix=
+default.php?cmd=
+default.php?cont=
+default.php?cPath=
+default.php?destino=
+default.php?e=
+default.php?eval=
+default.php?f=
+default.php?goto=
+default.php?header=
+default.php?inc=
+default.php?incl=
+default.php?include=
+default.php?index=
+default.php?ir=
+default.php?itemnav=
+default.php?k=
+default.php?ki=
+default.php?l=
+default.php?left=
+default.php?load=
+default.php?loader=
+default.php?loc=
+default.php?m=
+default.php?menu=
+default.php?menue=
+default.php?mid=
+default.php?mod=
+default.php?module=
+default.php?n=
+default.php?name=
+default.php?nivel=
+default.php?oldal=
+default.php?opcion=
+default.php?option=
+default.php?p=
+default.php?pa=
+default.php?pag=
+default.php?page=
+default.php?pageweb=
+default.php?panel=
+default.php?param=
+default.php?play=
+default.php?pr=
+default.php?pre=
+default.php?read=
+default.php?ref=
+default.php?rub=
+default.php?secao=
+default.php?secc=
+default.php?seccion=
+default.php?seite=
+default.php?showpage=
+default.php?sivu=
+default.php?sp=
+default.php?str=
+default.php?strona=
+default.php?t=
+default.php?thispage=
+default.php?TID=
+default.php?tipo=
+default.php?to=
+default.php?type=
+default.php?v=
+default.php?var=
+default.php?x=
+default.php?y=
+description.php?bookid=
+designcenter/item.php?id=
+detail.php?id=
+detail.php?ID=
+detail.php?item_id=
+detail.php?prodid=
+detail.php?prodID=
+detail.php?siteid=
+detailedbook.php?isbn=
+details.php?BookID=
+details.php?id=
+details.php?Press_Release_ID=
+details.php?prodId=
+details.php?ProdID=
+details.php?prodID=
+details.php?Product_ID=
+details.php?Service_ID=
+directory/contenu.php?id_cat=
+discussions/10/9/?CategoryID=
+display_item.php?id=
+display_page.php?id=
+display.php?ID=
+displayArticleB.php?id=
+displayproducts.php
+displayrange.php?rangeid=
+docDetail.aspx?chnum=
+down*.php?action=
+down*.php?addr=
+down*.php?channel=
+down*.php?choix=
+down*.php?cmd=
+down*.php?corpo=
+down*.php?disp=
+down*.php?doshow=
+down*.php?ev=
+down*.php?filepath=
+down*.php?goFile=
+down*.php?home=
+down*.php?in=
+down*.php?inc=
+down*.php?incl=
+down*.php?include=
+down*.php?ir=
+down*.php?lang=
+down*.php?left=
+down*.php?nivel=
+down*.php?oldal=
+down*.php?open=
+down*.php?OpenPage=
+down*.php?pa=
+down*.php?pag=
+down*.php?pageweb=
+down*.php?param=
+down*.php?path=
+down*.php?pg=
+down*.php?phpbb_root_path=
+down*.php?pollname=
+down*.php?pr=
+down*.php?pre=
+down*.php?qry=
+down*.php?r=
+down*.php?read=
+down*.php?s=
+down*.php?second=
+down*.php?section=
+down*.php?seite=
+down*.php?showpage=
+down*.php?sp=
+down*.php?strona=
+down*.php?subject=
+down*.php?t=
+down*.php?texto=
+down*.php?to=
+down*.php?u=
+down*.php?url=
+down*.php?v=
+down*.php?where=
+down*.php?x=
+down*.php?z=
+download.php?id=
+downloads_info.php?id=
+downloads.php?id=
+downloads/category.php?c=
+downloads/shambler.php?id=
+downloadTrial.php?intProdID=
+Duclassified" -site:duware.com "DUware All Rights reserved"
+duclassmate" -site:duware.com
+Dudirectory" -site:duware.com
+dudownload" -site:duware.com
+DUpaypal" -site:duware.com
+DWMail" password intitle:dwmail
+e_board/modifyform.html?code=
+edatabase/home.php?cat=
+edition.php?area_id=
+education/content.php?page=
+eggdrop filetype:user user
+Elite Forum Version *.*"
+els_/product/product.php?id=
+emailproduct.php?itemid=
+emailToFriend.php?idProduct=
+en/main.php?id=
+en/news/fullnews.php?newsid=
+en/publications.php?id=
+enable password | secret "current configuration" -intext:the
+enc/content.php?Home_Path=
+eng_board/view.php?T****=
+eng/rgboard/view.php?&bbs_id=
+english/board/view****.php?code=
+english/fonction/print.php?id=
+english/print.php?id=
+english/publicproducts.php?groupid=
+enter.php?a=
+enter.php?abre=
+enter.php?addr=
+enter.php?b=
+enter.php?base_dir=
+enter.php?body=
+enter.php?chapter=
+enter.php?cmd=
+enter.php?content=
+enter.php?e=
+enter.php?ev=
+enter.php?get=
+enter.php?go=
+enter.php?goto=
+enter.php?home=
+enter.php?id=
+enter.php?incl=
+enter.php?include=
+enter.php?index=
+enter.php?ir=
+enter.php?itemnav=
+enter.php?lang=
+enter.php?left=
+enter.php?link=
+enter.php?loader=
+enter.php?menue=
+enter.php?mid=
+enter.php?middle=
+enter.php?mod=
+enter.php?module=
+enter.php?name=
+enter.php?numero=
+enter.php?open=
+enter.php?pa=
+enter.php?page=
+enter.php?pagina=
+enter.php?panel=
+enter.php?path=
+enter.php?pg=
+enter.php?phpbb_root_path=
+enter.php?play=
+enter.php?pname=
+enter.php?pr=
+enter.php?pref=
+enter.php?qry=
+enter.php?r=
+enter.php?read=
+enter.php?ref=
+enter.php?s=
+enter.php?sec=
+enter.php?second=
+enter.php?seite=
+enter.php?sivu=
+enter.php?sp=
+enter.php?start=
+enter.php?str=
+enter.php?strona=
+enter.php?subject=
+enter.php?texto=
+enter.php?thispage=
+enter.php?type=
+enter.php?viewpage=
+enter.php?w=
+enter.php?y=
+etc (index.of)
+event_details.php?id=
+event_info.php?p=
+event.php?id=
+events?id=
+events.php?ID=
+events/detail.php?ID=
+events/event_detail.php?id=
+events/event.php?id=
+events/event.php?ID=
+events/index.php?id=
+events/unique_event.php?ID=
+exhibition_overview.php?id=
+exhibitions/detail.php?id=
+exported email addresses
+ext:txt inurl:dxdiag
+ext:txt inurl:unattend.txt
+ext:vmdk vmdk
+ext:vmx vmx
+ext:yml database inurl:config
+ez Publish administration
+faq_list.php?id=
+faq.php?cartID=
+faq2.php?id=
+faqs.php?id=
+fatcat/home.php?view=
+feature.php?id=
+features/view.php?id=
+feedback.php?title=
+fellows.php?id=
+FernandFaerie/index.php?c=
+fiche_spectacle.php?id=
+Fichier contenant des informations sur le r?seau :
+file.php?action=
+file.php?basepath=
+file.php?body=
+file.php?channel=
+file.php?chapter=
+file.php?choix=
+file.php?cmd=
+file.php?cont=
+file.php?corpo=
+file.php?disp=
+file.php?doshow=
+file.php?ev=
+file.php?eval=
+file.php?get=
+file.php?id=
+file.php?inc=
+file.php?incl=
+file.php?include=
+file.php?index=
+file.php?ir=
+file.php?ki=
+file.php?left=
+file.php?load=
+file.php?loader=
+file.php?middle=
+file.php?modo=
+file.php?n=
+file.php?nivel=
+file.php?numero=
+file.php?oldal=
+file.php?pagina=
+file.php?param=
+file.php?pg=
+file.php?play=
+file.php?pollname=
+file.php?pref=
+file.php?q=
+file.php?qry=
+file.php?ref=
+file.php?seccion=
+file.php?second=
+file.php?showpage=
+file.php?sivu=
+file.php?sp=
+file.php?start=
+file.php?strona=
+file.php?texto=
+file.php?to=
+file.php?type=
+file.php?url=
+file.php?var=
+file.php?viewpage=
+file.php?where=
+file.php?y=
+filemanager.php?delete=
+filetype:asp "Custom Error Message" Category Source
+filetype:asp + "[ODBC SQL"
+filetype:ASP ASP
+filetype:asp DBQ=" * Server.MapPath("*.mdb")
+filetype:ASPX ASPX
+filetype:bak createobject sa
+filetype:bak inurl:"htaccess|passwd|shadow|htusers"
+filetype:bkf bkf
+filetype:blt "buddylist"
+filetype:blt blt +intext:screenname
+filetype:BML BML
+filetype:cfg auto_inst.cfg
+filetype:cfg ks intext:rootpw -sample -test -howto
+filetype:cfg mrtg "target
+filetype:cfm "cfapplication name" password
+filetype:CFM CFM
+filetype:CGI CGI
+filetype:cgi inurl:"fileman.cgi"
+filetype:cgi inurl:"Web_Store.cgi"
+filetype:cnf inurl:_vti_pvt access.cnf
+filetype:conf inurl:firewall -intitle:cvs
+filetype:conf inurl:psybnc.conf "USER.PASS="
+filetype:conf oekakibbs
+filetype:conf slapd.conf
+filetype:config config intext:appSettings "User ID"
+filetype:config web.config -CVS
+filetype:ctt Contact
+filetype:ctt ctt messenger
+filetype:dat "password.dat
+filetype:dat "password.dat"
+filetype:dat inurl:Sites.dat
+filetype:dat wand.dat
+filetype:DIFF DIFF
+filetype:DLL DLL
+filetype:DOC DOC
+filetype:eml eml +intext:"Subject" +intext:"From" +intext:"To"
+filetype:FCGI FCGI
+filetype:fp3 fp3
+filetype:fp5 fp5 -site:gov -site:mil -"cvs log"
+filetype:fp7 fp7
+filetype:HTM HTM
+filetype:HTML HTML
+filetype:inc dbconn
+filetype:inc intext:mysql_connect
+filetype:inc mysql_connect OR mysql_pconnect
+filetype:inf inurl:capolicy.inf
+filetype:inf sysprep
+filetype:ini inurl:"serv-u.ini"
+filetype:ini inurl:flashFXP.ini
+filetype:ini ServUDaemon
+filetype:ini wcx_ftp
+filetype:ini ws_ftp pwd
+filetype:JHTML JHTML
+filetype:JSP JSP
+filetype:ldb admin
+filetype:lic lic intext:key
+filetype:log "PHP Parse error" | "PHP Warning" | "PHP Error"
+filetype:log "See `ipsec --copyright"
+filetype:log access.log -CVS
+filetype:log cron.log
+filetype:log intext:"ConnectionManager2"
+filetype:log inurl:"password.log"
+filetype:log inurl:password.log
+filetype:mbx mbx intext:Subject
+filetype:mdb inurl:users.mdb
+filetype:mdb wwforum
+filetype:MV MV
+filetype:myd myd -CVS
+filetype:netrc password
+filetype:ns1 ns1
+filetype:ora ora
+filetype:ora tnsnames
+filetype:pass pass intext:userid
+filetype:pdb pdb backup (Pilot | Pluckerdb)
+filetype:pdf "Assessment Report" nessus
+filetype:PDF PDF
+filetype:pem intext:private
+filetype:php inurl:"logging.php" "Discuz" error
+filetype:php inurl:"webeditor.php"
+filetype:STM STM
+filetype:SWF SWF
+filetype:TXT TXT
+filetype:url +inurl:"ftp://" +inurl:";@"
+filetype:vcs vcs
+filetype:vsd vsd network -samples -examples
+filetype:wab wab
+filetype:xls -site:gov inurl:contact
+filetype:xls inurl:"email.xls"
+filetype:xls username password email
+filetype:XLS XLS
+Financial spreadsheets: finance.xls
+Financial spreadsheets: finances.xls
+folder.php?id=
+forum_bds.php?num=
+forum.php?act=
+forum/profile.php?id=
+forum/showProfile.php?id=
+fr/commande-liste-categorie.php?panier=
+free_board/board_view.html?page=
+freedownload.php?bookid=
+front/bin/forumview.phtml?bbcode=
+frontend/category.php?id_category=
+fshstatistic/index.php?PID=
+fullDisplay.php?item=
+FullStory.php?Id=
+galerie.php?cid=
+Gallery in configuration mode
+gallery.php?*[*]*=
+gallery.php?abre=
+gallery.php?action=
+gallery.php?addr=
+gallery.php?base_dir=
+gallery.php?basepath=
+gallery.php?chapter=
+gallery.php?cont=
+gallery.php?corpo=
+gallery.php?disp=
+gallery.php?ev=
+gallery.php?eval=
+gallery.php?filepath=
+gallery.php?get=
+gallery.php?go=
+gallery.php?h=
+gallery.php?id=
+gallery.php?index=
+gallery.php?itemnav=
+gallery.php?ki=
+gallery.php?left=
+gallery.php?loader=
+gallery.php?menu=
+gallery.php?menue=
+gallery.php?mid=
+gallery.php?mod=
+gallery.php?module=
+gallery.php?my=
+gallery.php?name=
+gallery.php?nivel=
+gallery.php?oldal=
+gallery.php?open=
+gallery.php?option=
+gallery.php?pag=
+gallery.php?page=
+gallery.php?pageweb=
+gallery.php?panel=
+gallery.php?param=
+gallery.php?pg=
+gallery.php?phpbb_root_path=
+gallery.php?pname=
+gallery.php?pollname=
+gallery.php?pre=
+gallery.php?pref=
+gallery.php?qry=
+gallery.php?redirect=
+gallery.php?ref=
+gallery.php?rub=
+gallery.php?sec=
+gallery.php?secao=
+gallery.php?seccion=
+gallery.php?seite=
+gallery.php?showpage=
+gallery.php?sivu=
+gallery.php?sp=
+gallery.php?strona=
+gallery.php?thispage=
+gallery.php?tipo=
+gallery.php?to=
+gallery.php?url=
+gallery.php?var=
+gallery.php?viewpage=
+gallery.php?where=
+gallery.php?xlink=
+gallery.php?y=
+gallery/detail.php?ID=
+gallery/gallery.php?id=
+gallerysort.php?iid=
+game.php?id=
+games.php?id=
+Ganglia Cluster Reports
+garden_equipment/Fruit-Cage/product.php?pr=
+garden_equipment/pest-weed-control/product.php?pr=
+gb/comment.php?gb_id=
+general.php?abre=
+general.php?addr=
+general.php?adresa=
+general.php?b=
+general.php?base_dir=
+general.php?body=
+general.php?channel=
+general.php?chapter=
+general.php?choix=
+general.php?cmd=
+general.php?content=
+general.php?doshow=
+general.php?e=
+general.php?f=
+general.php?get=
+general.php?goto=
+general.php?header=
+general.php?id=
+general.php?inc=
+general.php?include=
+general.php?ir=
+general.php?itemnav=
+general.php?left=
+general.php?link=
+general.php?menu=
+general.php?menue=
+general.php?mid=
+general.php?middle=
+general.php?modo=
+general.php?module=
+general.php?my=
+general.php?name=
+general.php?nivel=
+general.php?opcion=
+general.php?p=
+general.php?page=
+general.php?pageweb=
+general.php?pollname=
+general.php?pr=
+general.php?pre=
+general.php?qry=
+general.php?read=
+general.php?redirect=
+general.php?ref=
+general.php?rub=
+general.php?secao=
+general.php?seccion=
+general.php?second=
+general.php?section=
+general.php?seite=
+general.php?sekce=
+general.php?sivu=
+general.php?strona=
+general.php?subject=
+general.php?texto=
+general.php?thispage=
+general.php?tipo=
+general.php?to=
+general.php?type=
+general.php?var=
+general.php?w=
+general.php?where=
+general.php?xlink=
+getbook.php?bookid=
+GetItems.php?itemid=
+giftDetail.php?id=
+gig.php?id=
+global_projects.php?cid=
+global/product/product.php?gubun=
+gnu/?doc=
+goboard/front/board_view.php?code=
+goods_detail.php?data=
+haccess.ctl (one way)
+haccess.ctl (VERY reliable)
+hall.php?file=
+hall.php?page=
+Hassan Consulting's Shopping Cart Version 1.18
+head.php?*[*]*=
+head.php?abre=
+head.php?adresa=
+head.php?b=
+head.php?base_dir=
+head.php?c=
+head.php?choix=
+head.php?cmd=
+head.php?content=
+head.php?corpo=
+head.php?d=
+head.php?dir=
+head.php?disp=
+head.php?ev=
+head.php?filepath=
+head.php?g=
+head.php?goto=
+head.php?inc=
+head.php?incl=
+head.php?include=
+head.php?index=
+head.php?ir=
+head.php?ki=
+head.php?lang=
+head.php?left=
+head.php?load=
+head.php?loader=
+head.php?loc=
+head.php?middle=
+head.php?middlePart=
+head.php?mod=
+head.php?modo=
+head.php?module=
+head.php?numero=
+head.php?oldal=
+head.php?opcion=
+head.php?pag=
+head.php?pageweb=
+head.php?play=
+head.php?pname=
+head.php?pollname=
+head.php?read=
+head.php?ref=
+head.php?rub=
+head.php?sec=
+head.php?sekce=
+head.php?sivu=
+head.php?start=
+head.php?str=
+head.php?strona=
+head.php?tipo=
+head.php?viewpage=
+head.php?where=
+head.php?y=
+help.php?CartId=
+help.php?css_path=
+help/com_view.html?code=
+historialeer.php?num=
+HistoryStore/pages/item.php?itemID=
+hm/inside.php?id=
+home.php?a=
+home.php?action=
+home.php?addr=
+home.php?base_dir=
+home.php?basepath=
+home.php?body=
+home.php?cat=
+home.php?category=
+home.php?channel=
+home.php?chapter=
+home.php?choix=
+home.php?cmd=
+home.php?content=
+home.php?disp=
+home.php?doshow=
+home.php?e=
+home.php?ev=
+home.php?eval=
+home.php?g=
+home.php?h=
+home.php?id=
+home.php?ID=
+home.php?in=
+home.php?include=
+home.php?index=
+home.php?ir=
+home.php?itemnav=
+home.php?k=
+home.php?link=
+home.php?loader=
+home.php?loc=
+home.php?menu=
+home.php?middle=
+home.php?middlePart=
+home.php?module=
+home.php?my=
+home.php?oldal=
+home.php?opcion=
+home.php?pa=
+home.php?page=
+home.php?pageweb=
+home.php?pagina=
+home.php?panel=
+home.php?path=
+home.php?play=
+home.php?pollname=
+home.php?pr=
+home.php?pre=
+home.php?qry=
+home.php?read=
+home.php?recipe=
+home.php?redirect=
+home.php?ref=
+home.php?rub=
+home.php?sec=
+home.php?secao=
+home.php?section=
+home.php?seite=
+home.php?sekce=
+home.php?showpage=
+home.php?sp=
+home.php?str=
+home.php?thispage=
+home.php?tipo=
+home.php?w=
+home.php?where=
+home.php?x=
+home.php?z=
+homepage.php?sel=
+hosting_info.php?id=
+ht://Dig htsearch error
+html/print.php?sid=
+html/scoutnew.php?prodid=
+htmlpage.php?id=
+htmltonuke.php?filnavn=
+htpasswd
+htpasswd / htgroup
+htpasswd / htpasswd.bak
+humor.php?id=
+i-know/content.php?page=
+ibp.php?ISBN=
+ICQ chat logs, please...
+idlechat/message.php?id=
+ihm.php?p=
+IIS 4.0 error messages
+IIS web server error messages
+IlohaMail"
+impex/ImpExData.php?systempath=
+
+
+SOURCE : https://cybersguards.com/

@@ -1,0 +1,23 @@
+Inurl:”CgiStart?page=”
+inurl:/view.shtml
+intitle:”Live View / – AXIS
+inurl:view/view.shtml
+inurl:ViewerFrame?Mode=
+inurl:ViewerFrame?Mode=Refresh
+inurl:axis-cgi/jpg
+inurl:axis-cgi/mjpg (motion-JPEG) (disconnected)
+inurl:view/indexFrame.shtml
+inurl:view/index.shtml
+inurl:view/view.shtml
+liveapplet
+intitle:”live view” intitle:axis
+intitle:liveapplet
+allintitle:”Network Camera NetworkCamera” (disconnected)
+intitle:axis intitle:”video server”
+intitle:liveapplet inurl:LvAppl
+intitle:”EvoCam” inurl:”webcam.html”
+intitle:”Live NetSnap Cam-Server feed”
+intitle:”Live View / – AXIS”
+inurl:indexFrame.shtml Axis
+
+Source : https://www.technotification.com/
