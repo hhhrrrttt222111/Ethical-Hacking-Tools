@@ -54,6 +54,18 @@ Like many competitions, the skill level for CTFs varies between the events. Some
 
 <br><br><br>
 
+## The 10 most common cyber attack types:
+
+1) [Denial-of-service (DoS) and distributed denial-of-service (DDoS) attacks](https://blog.netwrix.com/2018/05/15/top-10-most-common-types-of-cyber-attacks/#Denial-of-service%20(DoS)%20and%20distributed%20denial-of-service%20(DDoS)%20attacks) &nbsp; <br>
+2) [Man-in-the-middle (MitM) attack](https://blog.netwrix.com/2018/05/15/top-10-most-common-types-of-cyber-attacks/#Man-in-the-middle%20(MitM)%20attack) &nbsp; <br>
+3) [Phishing and spear phishing attacks](https://blog.netwrix.com/2018/05/15/top-10-most-common-types-of-cyber-attacks/#Phishing%20and%20spear%20phishing%20attacks) &nbsp; <br>
+4) [Drive-by attack](https://blog.netwrix.com/2018/05/15/top-10-most-common-types-of-cyber-attacks/#Drive-by%20attack) &nbsp; <br>
+5) [Password attack](https://blog.netwrix.com/2018/05/15/top-10-most-common-types-of-cyber-attacks/#Password%20attack) &nbsp; <br>
+6) [SQL injection attack](https://blog.netwrix.com/2018/05/15/top-10-most-common-types-of-cyber-attacks/#SQL%20injection%20attack) &nbsp; <br>
+7) [Cross-site scripting (XSS) attack](https://blog.netwrix.com/2018/05/15/top-10-most-common-types-of-cyber-attacks/#Cross-site%20scripting%20(XSS)%20attack) &nbsp; <br>
+8) [Eavesdropping attack](https://blog.netwrix.com/2018/05/15/top-10-most-common-types-of-cyber-attacks/#Eavesdropping%20attack) &nbsp; <br>
+9) [Birthday attack](https://blog.netwrix.com/2018/05/15/top-10-most-common-types-of-cyber-attacks/#Birthday%20attack) &nbsp; <br>
+10) [Malware attack](https://blog.netwrix.com/2018/05/15/top-10-most-common-types-of-cyber-attacks/#Malware%20attack) &nbsp; <br>
 
 #### More tools and tutorials coming your way soon !!
 
