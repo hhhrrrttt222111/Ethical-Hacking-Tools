@@ -52,6 +52,13 @@ Like many competitions, the skill level for CTFs varies between the events. Some
 ## What is Cryptography ? :currency_exchange:
 <p>Cryptography is the study of secure communications techniques that allow only the sender and intended recipient of a message to view its contents.When transmitting electronic data, the most common use of cryptography is to encrypt and decrypt email and other plain-text messages.Modern cryptography uses sophisticated mathematical equations (algorithms) and secret keys to encrypt and decrypt data. Today, cryptography is used to provide secrecy and integrity to our data, and both authentication and anonymity to our communications.An example of basic cryptography is a encrypted message in which letters are replaced with other characters. To decode the encrypted contents, you would need a grid or table that defines how the letters are transposed.</p>
 
+<br>
+
+## Common Hacking Tools
+
+* Rootkits
+* Keyloggers
+
 <br><br><br>
 
 
