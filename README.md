@@ -51,6 +51,21 @@ Like many competitions, the skill level for CTFs varies between the events. Some
 
 ## What is Cryptography ? :currency_exchange:
 <p>Cryptography is the study of secure communications techniques that allow only the sender and intended recipient of a message to view its contents.When transmitting electronic data, the most common use of cryptography is to encrypt and decrypt email and other plain-text messages.Modern cryptography uses sophisticated mathematical equations (algorithms) and secret keys to encrypt and decrypt data. Today, cryptography is used to provide secrecy and integrity to our data, and both authentication and anonymity to our communications.An example of basic cryptography is a encrypted message in which letters are replaced with other characters. To decode the encrypted contents, you would need a grid or table that defines how the letters are transposed.</p>
+<br>
+
+## Community Resources and Environments
+<p> There are a lot of resources out there in order to help you get started with Ethical Hacking. These range from YouTube tutorials to virtual lab environments where you can hone your skills.
+
+# YouTube Channels
+* [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+* [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
+* [IT Security Labs](https://www.youtube.com/channel/UCXPdZsu8g1nKerd-o5A75vA)
+
+# Virtual Testing Environments
+* [VulnHub](https://www.vulnhub.com/) - Through VulnHub, you can download VMs that have known vulnerabilites, your task is to break into these and find the flags that have been listed by the creator. This is a free service, you download the VM and run it in your VM program of choice
+* [Hack The Box](https://www.hackthebox.eu/) - In order to even get signed up to Hack the Box, you need to hack into the site. Once in, you will find a load of pre-made vulnerable boxes. No VM programs are needed here as you access them all through a VPN. There is a free tier but in order to access the retired machines you need to pay a subscription.
+* [Try Hack Me](https://tryhackme.com/) - Similar to Hack the Box but with a more guided learning approach. You can enroll yourself in "classes" that will help you through what to look for when hacking a machine. Again, all machines are accessed via a VPN. Subscription is required for most of the content here
+
 
 <br><br><br>
 
