@@ -430,3 +430,8 @@ ffuf -w /path/to/wordlist -u https://target/FUZZ
 amass enum -d example.com
 ````
 
+* [AQUATONE]()&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP4M2RTUFTJVE5QLRV26WYYCE)](https://github.com/michenriksen/aquatone)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://www.youtube.com/watch?v=mnQ-TaOWctw)
+``` 
+ cat targets.txt | aquatone
+````
+
