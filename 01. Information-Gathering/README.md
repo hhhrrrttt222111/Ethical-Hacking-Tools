@@ -434,4 +434,8 @@ amass enum -d example.com
 ``` 
  cat targets.txt | aquatone
 ````
+* [netscanner](https://github.com/R4yGM/netscanner)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP4M2RTUFTJVE5QLRV26WYYCE)](https://github.com/R4yGM/netscanner)
+``` 
+netscanner sp tcp 127.0.0.1 80
+```
 
