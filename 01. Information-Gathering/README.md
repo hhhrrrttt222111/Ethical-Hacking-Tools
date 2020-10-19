@@ -236,6 +236,11 @@ snmp-check 192.168.1.2 -c public
 swaks --to user@example.com
 swaks --to user@example.com --server smtp.example.com
 ```
+* [gobsuter](https://github.com/OJ/gobuster)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](https://github.com/OJ/gobuster)&nbsp;&nbsp;&nbsp; 
+``` 
+gobuster dir -u https://buffered.io -w ~/wordlists/shortlist.txt
+```
+
 * [smtp-user-enum](https://tools.kali.org/information-gathering/smtp-user-enum)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](https://gitlab.com/kalilinux/packages/smtp-user-enum)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://www.youtube.com/watch?v=BU-mCoK8emk)
 ``` 
 smtp-user-enum -M VRFY -U /root/Desktop/user.txt -t 192.168.1.107
