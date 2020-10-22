@@ -16,6 +16,10 @@ binwalk -h
 ``` 
 chntpw -h
 ```
+* [Chkrootkit](https://en.wikipedia.org/wiki/Chkrootkit)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://www.youtube.com/watch?v=I5PwKM7UmTM)
+``` 
+chkrootkit -h
+```
 * [Cuckoo](https://tools.kali.org/forensics/cuckoo)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP4M2RTUFTJVE5QLRV26WYYCE)](https://github.com/cuckoosandbox)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://www.youtube.com/watch?v=xadEiL2gMyw)
 ``` 
 cuckoo --help
@@ -46,7 +50,7 @@ extundelete --help
 ```
 * [Foremost](https://tools.kali.org/forensics/foremost)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](https://gitlab.com/kalilinux/packages/foremost)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://www.youtube.com/watch?v=UlnNnn0obSM)
 ``` 
-foremost
+foremost -h
 ```
 * [Galleta](https://tools.kali.org/forensics/galleta)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](https://gitlab.com/kalilinux/packages/galleta)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://www.youtube.com/watch?v=yS1OhNX5oQA)
 ``` 
@@ -84,9 +88,13 @@ peepdf -h
 ``` 
 regripper
 ```
+* [Strings](https://www.howtogeek.com/427805/how-to-use-the-strings-command-on-linux/)&nbsp;&nbsp;&nbsp;
+``` 
+strings -h
+```
 * [Volatility](https://tools.kali.org/forensics/volatility)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP4M2RTUFTJVE5QLRV26WYYCE)](https://github.com/volatilityfoundation/volatility)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://www.youtube.com/watch?v=Cs0Gc3GtfZY)
 ``` 
-volatility
+volatility -h
 ```
 * [Xplico](https://tools.kali.org/information-gathering/xplico)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](https://gitlab.com/kalilinux/packages/xplico)
 ``` 
