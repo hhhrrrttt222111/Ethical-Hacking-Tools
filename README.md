@@ -60,6 +60,7 @@ Like many competitions, the skill level for CTFs varies between the events. Some
 * [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
 * [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
 * [IT Security Labs](https://www.youtube.com/channel/UCXPdZsu8g1nKerd-o5A75vA)
+* [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)
 
 # Virtual Testing Environments
 * [VulnHub](https://www.vulnhub.com/) - Through VulnHub, you can download VMs that have known vulnerabilites, your task is to break into these and find the flags that have been listed by the creator. This is a free service, you download the VM and run it in your VM program of choice
@@ -81,6 +82,20 @@ Like many competitions, the skill level for CTFs varies between the events. Some
 8) [Eavesdropping attack](https://blog.netwrix.com/2018/05/15/top-10-most-common-types-of-cyber-attacks/#Eavesdropping%20attack) &nbsp; <br>
 9) [Birthday attack](https://blog.netwrix.com/2018/05/15/top-10-most-common-types-of-cyber-attacks/#Birthday%20attack) &nbsp; <br>
 10) [Malware attack](https://blog.netwrix.com/2018/05/15/top-10-most-common-types-of-cyber-attacks/#Malware%20attack) &nbsp; <br>
+
+<br>
+
+## Phases of Ethical Hacking
+
+1) Planning and Reconnaissance
+2) Scanning 
+3) Gaining Access
+4) Maintaining Access
+5) Analysis and WAF configuration
+
+## Certifications
+
+[Certified Ethical Hacker | CEH Certification](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) &nbsp; <br>
 
 #### More tools and tutorials coming your way soon !!
 
