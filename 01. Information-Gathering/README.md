@@ -443,4 +443,11 @@ amass enum -d example.com
 ``` 
 netscanner sp tcp 127.0.0.1 80
 ```
-
+* [webshag](https://github.com/wereallfeds/webshag)&nbsp;&nbsp;&nbsp;
+``` 
+sudo apt-get install python-wxgtk2.8 git nmap
+git clone https://github.com/wereallfeds/webshag
+cd webshag/
+./setup.linux.py
+./webshag_gui.py
+```
