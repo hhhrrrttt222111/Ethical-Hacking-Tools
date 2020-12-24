@@ -60,6 +60,7 @@ grabber -h
 ``` 
 hurl --help
 ```
+* [HTTRack](http://www.httrack.com/)
 * [jboss-autopwn](https://tools.kali.org/web-applications/jboss-autopwn)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP4M2RTUFTJVE5QLRV26WYYCE)](https://github.com/SpiderLabs/jboss-autopwn)
 ``` 
 jboss-win
