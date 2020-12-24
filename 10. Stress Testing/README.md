@@ -69,3 +69,9 @@ termineter -h
 ``` 
 thc-ssl-dos -h
 ```
+
+
+* [DOS-AttackScript by daaz](https://github.com/d4az/DOS-Attack-Script.)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](https://github.com/d4az/DOS-Attack-Script.)
+``` 
+git clone https://github.com/d4az/DOS-Attack-Script.    
+```
