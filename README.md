@@ -65,6 +65,7 @@ Like many competitions, the skill level for CTFs varies between the events. Some
 * [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
 * [IT Security Labs](https://www.youtube.com/channel/UCXPdZsu8g1nKerd-o5A75vA)
 * [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)
+* [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 
 # Virtual Testing Environments
 * [VulnHub](https://www.vulnhub.com/) - Through VulnHub, you can download VMs that have known vulnerabilites, your task is to break into these and find the flags that have been listed by the creator. This is a free service, you download the VM and run it in your VM program of choice
