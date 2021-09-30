@@ -236,6 +236,11 @@ snmp-check 192.168.1.2 -c public
 swaks --to user@example.com
 swaks --to user@example.com --server smtp.example.com
 ```
+* [gobsuter](https://github.com/OJ/gobuster)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](https://github.com/OJ/gobuster)&nbsp;&nbsp;&nbsp; 
+``` 
+gobuster dir -u https://buffered.io -w ~/wordlists/shortlist.txt
+```
+
 * [smtp-user-enum](https://tools.kali.org/information-gathering/smtp-user-enum)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](https://gitlab.com/kalilinux/packages/smtp-user-enum)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://www.youtube.com/watch?v=BU-mCoK8emk)
 ``` 
 smtp-user-enum -M VRFY -U /root/Desktop/user.txt -t 192.168.1.107
@@ -420,4 +425,29 @@ osrfconsole.py
 sublist3r -d kali.org -t 3 -e bing
 sublist3r -d google.com -b -t 100
 ```
+* [ffuf]()&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP4M2RTUFTJVE5QLRV26WYYCE)](https://github.com/ffuf/ffuf)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://www.youtube.com/watch?v=aN3Nayvd7FU)
+``` 
+ffuf -w /path/to/wordlist -u https://target/FUZZ
+````
 
+* [Amass]()&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP4M2RTUFTJVE5QLRV26WYYCE)](https://github.com/OWASP/Amass)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://www.youtube.com/watch?v=C-GabM2db9A)
+``` 
+amass enum -d example.com
+````
+
+* [AQUATONE]()&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP4M2RTUFTJVE5QLRV26WYYCE)](https://github.com/michenriksen/aquatone)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://www.youtube.com/watch?v=mnQ-TaOWctw)
+``` 
+ cat targets.txt | aquatone
+````
+* [netscanner](https://github.com/R4yGM/netscanner)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP4M2RTUFTJVE5QLRV26WYYCE)](https://github.com/R4yGM/netscanner)
+``` 
+netscanner sp tcp 127.0.0.1 80
+```
+* [webshag](https://github.com/wereallfeds/webshag)&nbsp;&nbsp;&nbsp;
+``` 
+sudo apt-get install python-wxgtk2.8 git nmap
+git clone https://github.com/wereallfeds/webshag
+cd webshag/
+./setup.linux.py
+./webshag_gui.py
+```
