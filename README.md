@@ -39,21 +39,21 @@ Hackers are classified according to the intent of their actions. The following l
 Ethical hackers are expected to report all the vulnerabilities and weakness found during the process to the management.</p>
 <br>
 
-## What is Cybersecurity ? :computer:
+## What is Cybersecurity? :computer:
 <p>Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These cyberattacks are usually aimed at accessing, changing, or destroying sensitive information; extorting money from users; or interrupting normal business processes.</p>
 <br>
 
-## What are Ethical-Hacking-Tools ? :man_technologist: :hammer_and_wrench:
+## What are Ethical-Hacking-Tools? :man_technologist: :hammer_and_wrench:
 <p>Hacking Tools are computer programs and scripts that help you find and exploit weaknesses in computer systems, web applications, servers and networks. There are a variety of such tools available on the market. Some of them are open source while others are commercial solutions.</p>
 <br>
 
-## What is CTF ? :triangular_flag_on_post:
+## What is CTF? :triangular_flag_on_post:
 <p>
 CTF (Capture The Flag) is a kind of information security competition that challenges contestants to solve a variety of tasks ranging from a scavenger hunt on wikipedia to basic programming exercises, to hacking your way into a server to steal data. In these challenges, the contestant is usually asked to find a specific piece of text that may be hidden on the server or behind a webpage. This goal is called the flag, hence the name!
 Like many competitions, the skill level for CTFs varies between the events. Some are targeted towards professionals with experience operating on cyber security teams. These typically offer a large cash reward and can be held at a specific physical location.</p>
 <br>
 
-## What is Cryptography ? :currency_exchange:
+## What is Cryptography? :currency_exchange:
 <p>Cryptography is the study of secure communications techniques that allow only the sender and intended recipient of a message to view its contents.When transmitting electronic data, the most common use of cryptography is to encrypt and decrypt email and other plain-text messages.Modern cryptography uses sophisticated mathematical equations (algorithms) and secret keys to encrypt and decrypt data. Today, cryptography is used to provide secrecy and integrity to our data, and both authentication and anonymity to our communications.An example of basic cryptography is an encrypted message in which letters are replaced with other characters. To decode the encrypted contents, you would need a grid or table that defines how the letters are transposed.</p>
 <br>
 
