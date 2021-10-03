@@ -16,8 +16,8 @@
 ### [Kali Linux](https://www.kali.org/downloads/) &nbsp; &nbsp; :dragon:   <br>
 ### [Parrot OS](https://parrotsec.org/download/) &nbsp;&nbsp; :parrot:   <br>
 ### [Remnux](https://remnux.org/#distro) &nbsp;&nbsp; :bee:
-### [bWAPP](https://sourceforge.net/projects/bwapp/files/bee-box/) &nbsp;&nbsp; :bee:
-### [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) &nbsp;&nbsp; :juice_box:
+### [bWAPP](https://sourceforge.net/projects/bwapp/files/bee-box/) &nbsp;&nbsp; :computer:
+### [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) &nbsp;&nbsp; :tropical_drink:
 <br><br>
 
 ## What is Hacking? :space_invader:
