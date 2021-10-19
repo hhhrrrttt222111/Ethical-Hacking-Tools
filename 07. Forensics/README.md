@@ -127,6 +127,8 @@ xplico -h
 
 * [scrounge-ntfs](https://en.kali.tools/all/?tool=1208)
 
+* [SIFT Workstation](https://www.sans.org/tools/sift-workstation)
+
 * affcat
 
 * [ewfacquire](https://linux.die.net/man/1/ewfacquire)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://www.youtube.com/watch?v=4D5XZ0AK9ak)
