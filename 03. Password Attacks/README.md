@@ -191,3 +191,7 @@ truecrack --help
 
 ```
 
+* [CredKing](https://github.com/ustayready/CredKing)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP4M2RTUFTJVE5QLRV26WYYCE)](https://github.com/ustayready/CredKing)
+``` 
+credking.py -h
+```
