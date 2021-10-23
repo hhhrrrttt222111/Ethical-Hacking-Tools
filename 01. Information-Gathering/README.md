@@ -485,3 +485,5 @@ $ python3 -m pip install -r requirements.txt
 python3 sherlock [user_name]
 ```
 * [PhoneInfoga](https://null-byte.wonderhowto.com/how-to/find-identifying-information-from-phone-number-using-osint-tools-0195472/)&nbsp;&nbsp;&nbsp;[![github](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP4M2RTUFTJVE5QLRV26WYYCE)](https://github.com/sundowndev/phoneinfoga)&nbsp;&nbsp;&nbsp;[![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://youtu.be/WW6myutKBYk)
+
+* [GHunt](https://kalilinuxtutorials.com/ghunt/)&nbsp;&nbsp;&nbsp;[![github](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP4M2RTUFTJVE5QLRV26WYYCE)](https://github.com/mxrch/GHunt)
