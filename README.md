@@ -18,6 +18,7 @@
 ### [Remnux](https://remnux.org/#distro) &nbsp;&nbsp; :bee:
 ### [bWAPP](https://sourceforge.net/projects/bwapp/files/bee-box/) &nbsp;&nbsp; :computer:
 ### [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) &nbsp;&nbsp; :tropical_drink:
+### [Oracle Virtualbox](https://www.virtualbox.org/wiki/Downloads)
 <br><br>
 
 ## What is Hacking? :space_invader:
@@ -69,6 +70,7 @@ Like many competitions, the skill level for CTFs varies between the events. Some
 * [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 * [Null Byte](https://www.youtube.com/c/NullByteWHT)
 * [JohnHammond010](https://www.youtube.com/c/JohnHammond010/videos)
+* [netwokchuck]
 
 # Virtual Testing Environments
 * [VulnHub](https://www.vulnhub.com/) - Through VulnHub, you can download VMs that have known vulnerabilities, your task is to break into these and find the flags that have been listed by the creator. This is a free service, you download the VM and run it in your VM program of choice
