@@ -47,6 +47,14 @@ tshark -r capture-output.pcap
 ``` 
 wireshark
 ```
+* [PacketStreamer](https://github.com/deepfence/PacketStreamer)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP4M2RTUFTJVE5QLRV26WYYCE)]([https://github.com/TheRook/subbrute](https://github.com/deepfence/PacketStreamer))
+```
+# on 'reciever' host, to collect streams
+./packetstreamer receiver --config ./contrib/config/receiver.yaml
+
+# on remote hosts, to run 'sensors'
+./packetstreamer sensor --config ./contrib/config/sensor.yaml
+```
 * [subbrute](https://github.com/TheRook/subbrute)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP4M2RTUFTJVE5QLRV26WYYCE)](https://github.com/TheRook/subbrute)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://www.youtube.com/watch?v=C-OPJafxUBs)
 ``` 
 ./subbrute.py target.com
@@ -487,3 +495,7 @@ python3 sherlock [user_name]
 * [PhoneInfoga](https://null-byte.wonderhowto.com/how-to/find-identifying-information-from-phone-number-using-osint-tools-0195472/)&nbsp;&nbsp;&nbsp;[![github](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP4M2RTUFTJVE5QLRV26WYYCE)](https://github.com/sundowndev/phoneinfoga)&nbsp;&nbsp;&nbsp;[![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://youtu.be/WW6myutKBYk)
 
 * [GHunt](https://kalilinuxtutorials.com/ghunt/)&nbsp;&nbsp;&nbsp;[![github](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP4M2RTUFTJVE5QLRV26WYYCE)](https://github.com/mxrch/GHunt)
+* [SecretScanner](https://github.com/deepfence/SecretScanner)&nbsp;&nbsp;&nbsp;[![github](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP4M2RTUFTJVE5QLRV26WYYCE)](https://github.com/deepfence/SecretScanner)
+```
+./SecretScanner -config-path /path/to/config.yaml/dir -image-name node:8.11
+```
