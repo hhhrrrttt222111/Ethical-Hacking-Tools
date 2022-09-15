@@ -34,6 +34,8 @@
   - 20$ signature, complete content basic to write exploits, web, android.
 - CyberSec WTF
   - Emulated web pentesting challenges from bounty write-ups
+- Hacksplaining(https://www.hacksplaining.com/)
+  - Online website for bug bounty tutorial.
 
 ### Off-Line
 
