@@ -10,6 +10,11 @@ arachni_web -h
 ``` 
 bbqsql
 ```
+
+* [beEF](https://www.kali.org/tools/beef-xss/)&nbsp;&nbsp;&nbsp;[![](https://avatars.githubusercontent.com/u/1214850?s=48&v=4)](https://github.com/beefproject/beef)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://youtu.be/3ogyS4KOlXc?si=7nCtRcl_Alg6Yw9x)
+``` 
+beef-xss
+```
 * [BlindElephant](https://tools.kali.org/web-applications/blindelephant)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](https://gitlab.com/kalilinux/packages/blindelephant)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://www.youtube.com/watch?v=nNEN2mvLNug)
 ``` 
 BlindElephant.py -h
