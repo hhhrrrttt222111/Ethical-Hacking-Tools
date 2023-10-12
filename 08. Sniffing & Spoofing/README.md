@@ -136,6 +136,14 @@ tshark -r capture-output.pcap
 ``` 
 wireshark
 ```
+* [PacketStreamer](https://github.com/deepfence/PacketStreamer)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP4M2RTUFTJVE5QLRV26WYYCE)](https://github.com/deepfence/PacketStreamer)
+```
+# on 'reciever' host, to collect streams
+./packetstreamer receiver --config ./contrib/config/receiver.yaml
+
+# on remote hosts, to run 'sensors'
+./packetstreamer sensor --config ./contrib/config/sensor.yaml
+```
 * [xspy](https://tools.kali.org/sniffingspoofing/xspy)&nbsp;&nbsp;&nbsp;[![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](YT)
 ``` 
 xspy -h
