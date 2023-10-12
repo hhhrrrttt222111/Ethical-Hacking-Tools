@@ -76,6 +76,13 @@ Like many competitions, the skill level for CTFs varies between the events. Some
 * [Try Hack Me](https://tryhackme.com/) - Similar to Hack the Box but with a more guided learning approach. You can enroll yourself in "classes" that will help you through what to look for when hacking a machine. Again, all machines are accessed via a VPN. Subscription is required for most of the content here
 
 
+<br>
+
+## Common Hacking Tools
+
+* Rootkits
+* Keyloggers
+
 <br><br><br>
 
 ## The 10 most common cyber attack types:
