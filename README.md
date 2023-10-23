@@ -61,14 +61,29 @@ Like many competitions, the skill level for CTFs varies between the events. Some
 ## Community Resources and Environments
 <p> There are a lot of resources out there in order to help you get started with Ethical Hacking. These range from YouTube tutorials to virtual lab environments where you can hone your skills.
 
-# YouTube Channels
-* [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
-* [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
-* [IT Security Labs](https://www.youtube.com/channel/UCXPdZsu8g1nKerd-o5A75vA)
-* [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)
-* [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
-* [Null Byte](https://www.youtube.com/c/NullByteWHT)
-* [JohnHammond010](https://www.youtube.com/c/JohnHammond010/videos)
+# Cybersecurity and Technology YouTube Channels
+
+1. [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+   - **Description:** IppSec is a popular YouTube channel that focuses on ethical hacking and cybersecurity. The channel features Capture The Flag (CTF) walkthroughs and in-depth explanations of hacking techniques and challenges.
+
+2. [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
+   - **Description:** The Cyber Mentor offers valuable resources for aspiring and experienced cybersecurity professionals. The channel provides tutorials, courses, and practical advice on topics such as penetration testing, networking, and cybersecurity certifications.
+
+3. [IT Security Labs](https://www.youtube.com/channel/UCXPdZsu8g1nKerd-o5A75vA)
+   - **Description:** IT Security Labs is dedicated to cybersecurity education and information security. The channel covers a wide range of topics, including ethical hacking, red teaming, and cybersecurity tools and techniques.
+
+4. [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)
+   - **Description:** Hak5 is a long-standing technology and hacking channel that explores various aspects of hacking, security, and emerging tech trends. The channel features informative tutorials and reviews of hacking gadgets and tools.
+
+5. [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+   - **Description:** LiveOverflow is known for its engaging and educational content related to cybersecurity and CTF challenges. The channel provides walkthroughs, tutorials, and insights into the world of hacking and reverse engineering.
+
+6. [Null Byte](https://www.youtube.com/c/NullByteWHT)
+   - **Description:** Null Byte, a part of the WonderHowTo network, offers a wealth of knowledge on cybersecurity and hacking. The channel covers topics like ethical hacking, information security, and cybersecurity news.
+
+7. [JohnHammond010](https://www.youtube.com/c/JohnHammond010/videos)
+   - **Description:** JohnHammond010 is a cybersecurity enthusiast who shares his passion for hacking and security through his YouTube channel. The content includes Capture The Flag (CTF) walkthroughs, tutorials on various security tools, and cybersecurity challenges.
+
 
 # Virtual Testing Environments
 * [VulnHub](https://www.vulnhub.com/) - Through VulnHub, you can download VMs that have known vulnerabilities, your task is to break into these and find the flags that have been listed by the creator. This is a free service, you download the VM and run it in your VM program of choice
